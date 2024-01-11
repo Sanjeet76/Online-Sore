@@ -52,12 +52,13 @@ This is a project for the Squbix assignment E-commerce , which includes a backen
 - `frontend`: Contains the React frontend code.
 
 ## Snapshot
-![Screenshot 2024-01-08 172055](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/27c00e1c-109e-4192-9979-6c52e03c54bc)
-![Screenshot 2024-01-08 171840](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/0c041af1-5bb5-42b6-8460-eefe7fd02b78)
-![Screenshot 2024-01-08 171819](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/df8f4eee-2e78-4782-b965-392d5cc8e434)
-![Screenshot 2024-01-08 171811](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/f93355f3-23a0-4c5e-99b1-e2dc65c8f60c)
-![Screenshot 2024-01-08 171731](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/e2f37bf5-b9ad-4f86-ad79-283891007e5b)
-![Screenshot 2024-01-08 171716](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/08831fe5-9a77-4686-9b05-003c4e678663)
+
+![Screenshot 2024-01-11 204149](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/90b44034-21a7-4c3a-bb81-5dd0590b72fb)
+![Screenshot 2024-01-11 204137](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/ccd63be4-8cc7-4e1d-a4ec-9bcde3cc64fa)
+![Screenshot 2024-01-11 204119](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/3a9a6782-16ed-43b0-aaf5-2ffeda3a32a8)
+![Screenshot 2024-01-11 204103](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/d0474b5f-7866-4ddf-a21a-b6236ede375f)
+![Screenshot 2024-01-11 204044](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/49c2953e-275c-4e17-8eff-15b53fc6eedc)
+![Screenshot 2024-01-11 203951](https://github.com/Sanjeet76/squbix-Assignment/assets/96953921/0fe13f08-2a68-488f-9561-1601cf94efa3)
 
 
 
