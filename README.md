@@ -1,6 +1,6 @@
-# Squbix Assignment
+# Online Store
 
-This is a project for the Squbix assignment E-commerce , which includes a backend API built using Node.js, Express, and MongoDB, and a frontend application using React.
+This is a project for the  E-commerce , which includes a backend API built using Node.js, Express, and MongoDB, and a frontend application using React.
 
 ## Backend (Node.js and Express)
 
